@@ -35,14 +35,6 @@ An AI-powered web application that generates summaries from long text, PDFs, and
 3. Selects summarization method  
 4. Generates summary using NLP models  
 
----
-
-## 📸 Demo
-
-(Add screenshots here)
-
----
-
 ## ▶️ Run Locally
 
 ```bash
